@@ -4,7 +4,7 @@
 Certainly! Here's an example of a step-by-step process for data analysis and building a machine learning model for sales prediction:
 
 Step 1: Data Exploration and Preparation
-- Load the sales dataset into a DataFrame.
+- Load the IRIS FLOWER dataset into a DataFrame.
 - Explore the dataset to understand its structure, feature columns, and target variable.
 - Handle missing values, if any, through imputation or removal.
 - Perform any necessary data transformations, such as scaling or encoding categorical variables.
@@ -26,7 +26,7 @@ Step 5: Model Building and Evaluation
 - Choose an appropriate machine learning algorithm for sales prediction, such as logistic regression, decision trees.
 - Initialize and train the selected model on the training data.
 - Make predictions on the test data using the trained model.
-- Evaluate the model's performance using appropriate evaluation metrics such as mean squared error (MSE), root mean squared error (RMSE), and R-squared (R2) score.
+- Evaluate the model's performance using appropriate evaluation metrics such as model accuracy.
 - Analyze the model's performance and fine-tune hyperparameters if needed.
 
 Step 6: Model Deployment and Monitoring
