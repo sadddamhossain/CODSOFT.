@@ -23,7 +23,7 @@ Step 4: Train-Test Split
 - Reserve a portion of the data (e.g., 20-30%) for testing the trained model's performance.
 
 Step 5: Model Building and Evaluation
-- Choose an appropriate machine learning algorithm for sales prediction, such as logistic regression, decision trees.
+- Choose an appropriate machine learning model, such as logistic regression, decision trees.
 - Initialize and train the selected model on the training data.
 - Make predictions on the test data using the trained model.
 - Evaluate the model's performance using appropriate evaluation metrics such as model accuracy.
